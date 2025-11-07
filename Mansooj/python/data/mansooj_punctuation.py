@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+
 """
 Mansooj JoinEngine — Punctuation Bit Mapping
 --------------------------------------------
