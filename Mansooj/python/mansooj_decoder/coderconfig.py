@@ -3,7 +3,7 @@
 Mansooj CoderEngine Config
 --------------------------
 Defines enums, callback types, and structures for coderengine binding.
-Matches coderengine.h exactly.
+Matches
 """
 
 import ctypes
