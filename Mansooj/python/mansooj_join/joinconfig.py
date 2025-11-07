@@ -1,5 +1,5 @@
 
-# -*- coding: utf-8 -*-
+
 """
 Mansooj JoinEngine Config
 --------------------------
